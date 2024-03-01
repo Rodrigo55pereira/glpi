@@ -1,0 +1,5 @@
+0
+ac59eddcea0c76dc0447a35902b27e1a98e020eb
+a:1:{i:0;a:4:{s:3:"key";i:0;s:5:"title";s:280:"<a href='/front/central.php?active_entity=0'>Entidade raiz</a><a href='/front/central.php?active_entity=0&is_recursive=1'>
+                <i class='fas fa-angle-double-down ms-1' data-bs-toggle='tooltip' data-bs-placement='right' title='+ sub-entidades'></i>
+                </a>";s:6:"folder";b:1;s:8:"children";a:1:{i:0;a:2:{s:3:"key";i:1;s:5:"title";s:59:"<a href='/front/central.php?active_entity=1'>UAI Brasil</a>";}}}}

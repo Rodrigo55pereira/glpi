@@ -1,0 +1,632 @@
+2024-01-18 04:20:56 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 189.37.72.59
+2024-01-18 19:27:52 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.91.171
+2024-01-18 19:39:54 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.91.171
+2024-01-18 19:40:03 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 177.106.91.171
+2024-01-18 19:47:03 [2@glpi-uaibrasil]
+[setup] [Plugin 9] 3: Plugin Campos adicionais foi instalado por glpi (2).
+2024-01-18 19:47:13 [2@glpi-uaibrasil]
+[setup] [Plugin 10] 3: Plugin Campos adicionais foi ativado por glpi (2).
+2024-01-18 19:47:37 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.91.171
+2024-01-18 19:51:21 [@glpi-uaibrasil]
+[login] 3: Login falhou para glpi no IP 177.106.91.171
+2024-01-18 19:51:28 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 177.106.91.171
+2024-01-18 19:59:07 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 177.106.91.171
+2024-01-18 20:04:48 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.91.171
+2024-01-18 20:14:37 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 177.106.91.171
+2024-01-18 20:18:11 [@glpi-uaibrasil]
+[login] 3: operacao ligou-se do IP 177.106.91.171
+2024-01-18 20:20:16 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 177.106.91.171
+2024-01-18 20:26:26 [@glpi-uaibrasil]
+[login] 3: Falhou login para lucilene.soares do IP 177.106.91.171
+2024-01-18 20:26:41 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 177.106.91.171
+2024-01-18 20:27:28 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 177.106.91.171
+2024-01-18 20:29:57 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.91.171
+2024-01-18 20:59:32 [@glpi-uaibrasil]
+[login] 3: Falhou login para oficina1 do IP 177.106.91.171
+2024-01-18 20:59:42 [@glpi-uaibrasil]
+[login] 3: Falhou login para oficina1 do IP 177.106.91.171
+2024-01-18 20:59:51 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.91.171
+2024-01-18 21:00:29 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 177.106.91.171
+2024-01-18 21:00:50 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 177.106.91.171
+2024-01-18 21:01:16 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 177.106.91.171
+2024-01-18 21:03:40 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.91.171
+2024-01-18 21:07:20 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 177.106.91.171
+2024-01-18 21:08:09 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.91.171
+2024-01-18 21:12:08 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 177.106.91.171
+2024-01-18 21:22:06 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 177.106.91.171
+2024-01-18 21:23:16 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.91.171
+2024-01-18 21:28:47 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 177.106.91.171
+2024-01-18 21:33:39 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.91.171
+2024-01-18 21:34:02 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 177.106.91.171
+2024-01-18 21:34:30 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 177.106.91.171
+2024-01-18 23:02:44 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 189.37.65.154
+2024-01-18 23:06:40 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 189.37.65.154
+2024-01-18 23:09:39 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 189.37.65.154
+2024-01-18 23:14:52 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-18 23:19:52 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 187.62.84.111
+2024-01-18 23:20:31 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 189.37.65.154
+2024-01-18 23:21:11 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 189.37.65.154
+2024-01-18 23:30:27 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-18 23:39:02 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 189.37.65.154
+2024-01-18 23:40:16 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 189.37.65.154
+2024-01-18 23:41:35 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 189.37.65.154
+2024-01-18 23:44:09 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-18 23:44:32 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 189.37.65.154
+2024-01-18 23:47:26 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 189.37.65.154
+2024-01-18 23:50:17 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-18 23:54:49 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 189.37.65.154
+2024-01-18 23:55:48 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 189.37.65.154
+2024-01-19 00:07:58 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-19 00:11:33 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 189.37.65.154
+2024-01-19 00:12:07 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-19 00:23:33 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 189.37.65.154
+2024-01-19 00:50:45 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-19 01:27:22 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 189.37.65.154
+2024-01-19 01:39:24 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-19 01:46:40 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 189.37.65.154
+2024-01-19 01:49:56 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-19 02:28:17 [2@glpi-uaibrasil]
+[setup] [Plugin 208] 3: Plugin Split Timeline Action Buttons foi instalado por glpi (2).
+2024-01-19 02:28:25 [2@glpi-uaibrasil]
+[setup] [Plugin 209] 3: Plugin Split Timeline Action Buttons foi ativado por glpi (2).
+2024-01-19 02:28:41 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-19 02:45:35 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 189.37.65.154
+2024-01-19 02:47:31 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-19 03:05:23 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 189.37.65.154
+2024-01-19 03:08:35 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 189.37.65.154
+2024-01-19 03:11:09 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-19 03:13:09 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 189.37.65.154
+2024-01-19 03:14:09 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-19 03:15:39 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 189.37.65.154
+2024-01-19 03:16:57 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 189.37.65.154
+2024-01-19 03:17:06 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 189.37.65.154
+2024-01-19 03:19:52 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.65.154
+2024-01-19 03:21:21 [@glpi-uaibrasil]
+[login] 3: oficina2 ligou-se do IP 189.37.65.154
+2024-01-19 03:23:52 [@glpi-uaibrasil]
+[login] 3: admin ligou-se do IP 189.37.65.154
+2024-01-19 03:24:56 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 189.37.65.154
+2024-01-19 15:28:00 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.14.233
+2024-01-19 15:43:49 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 179.126.14.233
+2024-01-19 15:46:00 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.14.233
+2024-01-19 15:49:40 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 179.126.14.233
+2024-01-19 15:57:00 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.14.233
+2024-01-19 16:00:40 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 179.126.14.233
+2024-01-19 16:09:29 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.14.233
+2024-01-19 17:48:23 [2@glpi-uaibrasil]
+[setup] [Plugin 300] 3: Plugin ActualTime foi instalado por glpi (2).
+2024-01-19 17:48:26 [2@glpi-uaibrasil]
+[setup] [Plugin 301] 3: Plugin ActualTime foi ativado por glpi (2).
+2024-01-19 17:52:11 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 179.126.14.233
+2024-01-19 17:54:29 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.14.233
+2024-01-19 18:04:23 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.126.14.233
+2024-01-19 18:10:33 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.14.233
+2024-01-19 18:13:20 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.126.14.233
+2024-01-19 18:14:29 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.14.233
+2024-01-19 18:17:21 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.126.14.233
+2024-01-19 18:17:50 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.14.233
+2024-01-19 18:19:34 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.126.14.233
+2024-01-19 18:26:46 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.14.233
+2024-01-19 21:11:05 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 177.106.90.252
+2024-01-19 21:14:52 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 177.106.90.252
+2024-01-19 21:15:41 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.90.252
+2024-01-19 21:17:27 [@glpi-uaibrasil]
+[login] 3: oficina1 ligou-se do IP 177.106.90.252
+2024-01-19 21:19:01 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.90.252
+2024-01-19 21:24:03 [@glpi-uaibrasil]
+[login] 3: lucilene.soares fez login no IP 177.106.90.252
+2024-01-19 21:40:03 [@glpi-uaibrasil]
+[login] 3: oficina2 fez login no IP 177.106.90.252
+2024-01-19 21:48:14 [@glpi-uaibrasil]
+[login] 3: lucilene.soares fez login no IP 177.106.90.252
+2024-01-19 21:51:11 [@glpi-uaibrasil]
+[login] 3: oficina2 fez login no IP 177.106.90.252
+2024-01-19 21:52:08 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.90.252
+2024-01-19 21:53:21 [@glpi-uaibrasil]
+[login] 3: oficina2 fez login no IP 177.106.90.252
+2024-01-19 21:58:11 [@glpi-uaibrasil]
+[login] 3: Login falhou para lucilene.soares no IP 177.106.90.252
+2024-01-19 21:58:27 [@glpi-uaibrasil]
+[login] 3: lucilene.soares fez login no IP 177.106.90.252
+2024-01-19 22:00:43 [@glpi-uaibrasil]
+[login] 3: oficina2 fez login no IP 177.106.90.252
+2024-01-19 22:06:35 [@glpi-uaibrasil]
+[login] 3: lucilene.soares fez login no IP 177.106.90.252
+2024-01-23 15:27:38 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.25.192.216
+2024-01-23 23:04:53 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.87.172.77
+2024-01-23 23:06:49 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.87.172.77
+2024-01-23 23:24:26 [@glpi-uaibrasil]
+[login] 3: Falhou login para oficina2 do IP 179.87.172.77
+2024-01-23 23:26:24 [@glpi-uaibrasil]
+[login] 3: Falhou login para oficina2 do IP 179.87.172.77
+2024-01-23 23:26:31 [@glpi-uaibrasil]
+[login] 3: Falhou login para oficina2 do IP 179.87.172.77
+2024-01-23 23:26:38 [@glpi-uaibrasil]
+[login] 3: Falhou login para oficina1 do IP 179.87.172.77
+2024-01-23 23:26:42 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.87.172.77
+2024-01-23 23:26:59 [@glpi-uaibrasil]
+[login] 3: oficinam ligou-se do IP 179.87.172.77
+2024-01-23 23:28:10 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.87.172.77
+2024-01-23 23:29:47 [@glpi-uaibrasil]
+[login] 3: oficinam ligou-se do IP 179.87.172.77
+2024-01-23 23:31:34 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.87.172.77
+2024-01-23 23:32:52 [@glpi-uaibrasil]
+[login] 3: oficinam ligou-se do IP 179.87.172.77
+2024-01-23 23:33:20 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.87.172.77
+2024-01-23 23:34:21 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.87.172.77
+2024-01-23 23:38:10 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.87.172.77
+2024-01-23 23:38:43 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.87.172.77
+2024-01-23 23:41:48 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.87.172.77
+2024-01-24 00:07:06 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 189.15.135.39
+2024-01-24 00:07:21 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 189.15.135.39
+2024-01-24 01:03:14 [2@glpi-uaibrasil]
+[setup] [Plugin 417] 3: Plugin YAGP foi instalado por glpi (2).
+2024-01-24 01:03:40 [2@glpi-uaibrasil]
+[setup] [Plugin 418] 3: Plugin YAGP foi ativado por glpi (2).
+2024-01-24 17:05:51 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 179.104.182.206
+2024-01-24 17:23:56 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 179.104.182.206
+2024-01-25 16:56:37 [@glpi-uaibrasil]
+[login] 3: oficinam fez login no IP 177.191.68.48
+2024-01-25 17:00:57 [@glpi-uaibrasil]
+[login] 3: Login falhou para glpi no IP 177.191.68.48
+2024-01-25 17:01:13 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 177.191.68.48
+2024-01-25 16:15:58 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 179.104.189.243
+2024-01-25 16:22:20 [@glpi-uaibrasil]
+[login] 3: oficinam fez login no IP 179.104.189.243
+2024-01-25 16:22:42 [@glpi-uaibrasil]
+[login] 3: Falhou login para  do IP 187.22.11.67
+2024-01-25 16:23:10 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 187.22.11.67
+2024-01-25 16:23:25 [@glpi-uaibrasil]
+[login] 3: lucilene.soares fez login no IP 179.104.189.243
+2024-01-25 16:28:41 [@glpi-uaibrasil]
+[login] 3: oficinam fez login no IP 179.84.107.221
+2024-01-26 19:25:35 [@glpi-uaibrasil]
+[login] 3: lucilene.soares fez login no IP 189.37.71.7
+2024-01-26 19:29:01 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 189.37.71.7
+2024-01-26 19:55:27 [@glpi-uaibrasil]
+[login] 3: oficinam fez login no IP 189.37.71.7
+2024-01-28 21:00:20 [@glpi-uaibrasil]
+[login] 3: Login falhou para test no IP 107.189.30.236
+2024-01-28 21:00:22 [@glpi-uaibrasil]
+[login] 3: Login falhou para glpi no IP 107.189.30.236
+2024-01-28 21:00:23 [@glpi-uaibrasil]
+[login] 3: Login falhou para tech no IP 107.189.30.236
+2024-01-28 21:52:13 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 189.37.64.111
+2024-01-29 07:44:52 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 189.37.66.187
+2024-01-29 08:40:30 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.104.58.42
+2024-01-29 08:42:07 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.104.58.42
+2024-01-29 08:45:37 [@glpi-uaibrasil]
+[login] 3: oficinae ligou-se do IP 179.104.58.42
+2024-01-29 08:50:23 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.104.58.42
+2024-01-29 08:51:31 [@glpi-uaibrasil]
+[login] 3: oficinae ligou-se do IP 179.104.58.42
+2024-01-29 08:53:14 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.104.58.42
+2024-01-29 08:54:56 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.104.58.42
+2024-01-29 08:58:49 [@glpi-uaibrasil]
+[login] 3: Login falhou para LUCILENE.soares no IP 179.104.58.42
+2024-01-29 08:59:01 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.104.58.42
+2024-01-29 08:59:16 [@glpi-uaibrasil]
+[login] 3: lucilene.soares fez login no IP 179.104.58.42
+2024-01-29 09:05:14 [@glpi-uaibrasil]
+[login] 3: oficinae ligou-se do IP 179.104.58.42
+2024-01-29 09:10:02 [@glpi-uaibrasil]
+[login] 3: lucilene.soares fez login no IP 179.104.58.42
+2024-01-29 09:19:34 [@glpi-uaibrasil]
+[login] 3: oficinam ligou-se do IP 179.104.58.42
+2024-01-29 09:30:52 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.104.58.42
+2024-01-29 13:11:14 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 177.191.94.134
+2024-01-29 17:25:16 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.126.7.202
+2024-01-29 17:25:55 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.7.202
+2024-01-29 17:40:03 [2@glpi-uaibrasil]
+[setup] 3: glpi editou a configuração de notificações de e-mails
+2024-01-29 17:40:43 [2@glpi-uaibrasil]
+[setup] 3: glpi editou a configuração de notificações de e-mails
+2024-01-29 17:42:08 [2@glpi-uaibrasil]
+[setup] 3: glpi editou a configuração de notificações de e-mails
+2024-01-29 17:50:16 [@glpi-uaibrasil]
+[login] 3: thiago.borges ligou-se do IP 179.126.7.202
+2024-01-29 17:55:47 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.7.202
+2024-01-29 18:04:09 [@glpi-uaibrasil]
+[login] 3: Falhou login para thiago.borges do IP 179.126.7.202
+2024-01-29 18:04:19 [@glpi-uaibrasil]
+[login] 3: thiago.borges ligou-se do IP 179.126.7.202
+2024-01-29 18:08:12 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.7.202
+2024-01-29 18:10:15 [2@glpi-uaibrasil]
+[setup] 3: glpi editou a configuração de notificações de e-mails
+2024-01-29 18:18:40 [2@glpi-uaibrasil]
+[setup] 3: glpi editou a configuração de notificações dos navegadores
+2024-01-29 18:23:24 [2@glpi-uaibrasil]
+[setup] 3: glpi editou a configuração de notificações dos navegadores
+2024-01-29 20:19:06 [@glpi-uaibrasil]
+[login] 3: thiago.borges ligou-se do IP 179.126.7.202
+2024-01-31 15:31:54 [@glpi-uaibrasil]
+[login] 3: lucilene.soares fez login no IP 189.15.111.199
+2024-01-31 16:05:58 [@glpi-uaibrasil]
+[login] 3: thiago.borges ligou-se do IP 191.248.172.127
+2024-01-31 16:25:26 [@glpi-uaibrasil]
+[login] 3: lucilene.soares fez login no IP 179.126.227.66
+2024-01-31 16:28:50 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 177.51.51.57
+2024-01-31 16:30:08 [@glpi-uaibrasil]
+[login] 3: Login falhou para glpi no IP 177.191.83.179
+2024-01-31 16:30:24 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 177.191.83.179
+2024-01-31 16:32:36 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 177.191.83.179
+2024-01-31 16:37:16 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 191.248.186.105
+2024-01-31 16:37:54 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.248.186.105
+2024-01-31 16:48:09 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 191.248.186.105
+2024-01-31 16:49:46 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 191.248.186.105
+2024-01-31 16:58:25 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 191.248.186.105
+2024-01-31 18:20:27 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.248.186.105
+2024-02-01 08:32:55 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 191.55.21.164
+2024-02-01 08:33:29 [@glpi-uaibrasil]
+[login] 3: LUCILENE.SOARES fez login no IP 191.55.21.164
+2024-02-01 08:41:20 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 191.55.21.164
+2024-02-01 09:15:06 [@glpi-uaibrasil]
+[login] 3: fabio.barbosa fez login no IP 191.55.21.164
+2024-02-01 10:11:31 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.248.186.105
+2024-02-01 15:25:54 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.12.95
+2024-02-01 15:33:37 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 179.126.12.95
+2024-02-01 15:41:49 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.12.95
+2024-02-01 15:48:47 [@glpi-uaibrasil]
+[login] 3: oficinap ligou-se do IP 179.126.12.95
+2024-02-01 19:33:51 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 179.104.244.128
+2024-02-01 20:32:14 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 179.104.244.128
+2024-02-01 20:50:05 [2@glpi-uaibrasil]
+[setup] 3: glpi editou a configuração de notificações de e-mails
+2024-02-01 20:51:54 [2@glpi-uaibrasil]
+[setup] 3: glpi editou a configuração de notificações de e-mails
+2024-02-01 20:52:13 [2@glpi-uaibrasil]
+[setup] 3: glpi editou a configuração de notificações de e-mails
+2024-02-01 20:52:24 [2@glpi-uaibrasil]
+[setup] 3: glpi editou a configuração de notificações de e-mails
+2024-02-01 20:52:31 [2@glpi-uaibrasil]
+[setup] 3: glpi editou a configuração de notificações de e-mails
+2024-02-02 07:45:22 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 191.248.186.105
+2024-02-02 07:45:29 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.248.186.105
+2024-02-02 08:27:05 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 189.37.67.139
+2024-02-02 08:57:11 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.106.226.25
+2024-02-02 11:25:44 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.248.186.105
+2024-02-02 12:07:07 [@glpi-uaibrasil]
+[login] 3: Falhou login para  do IP 179.126.7.18
+2024-02-02 12:08:40 [@glpi-uaibrasil]
+[login] 3: Falhou login para  do IP 179.126.7.18
+2024-02-02 12:08:45 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.7.18
+2024-02-02 12:47:36 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.7.18
+2024-02-05 08:43:23 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.191.10.47
+2024-02-05 16:47:50 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.191.10.47
+2024-02-05 17:07:50 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.248.186.105
+2024-02-05 17:50:39 [@glpi-uaibrasil]
+[login] 3: fabio.barbosa fez login no IP 177.191.10.47
+2024-02-05 21:13:56 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.64.7
+2024-02-05 21:14:13 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 189.37.64.7
+2024-02-05 21:24:57 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 189.37.64.7
+2024-02-05 22:31:53 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 189.37.75.190
+2024-02-06 08:49:14 [@glpi-uaibrasil]
+[login] 3: fabio.barbosa fez login no IP 177.106.30.48
+2024-02-06 08:51:43 [@glpi-uaibrasil]
+[login] 3: Login falhou para RODRIGO.COSTA no IP 177.106.30.48
+2024-02-06 08:51:54 [@glpi-uaibrasil]
+[login] 3: RODRIGO.GOMES fez login no IP 177.106.30.48
+2024-02-06 13:35:53 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 177.106.30.48
+2024-02-06 13:36:28 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.106.30.48
+2024-02-06 16:46:03 [@glpi-uaibrasil]
+[login] 3: Falhou login para  do IP 177.106.30.48
+2024-02-06 16:46:07 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.30.48
+2024-02-06 16:48:43 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.106.30.48
+2024-02-06 19:00:06 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 189.37.74.209
+2024-02-06 19:00:12 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 189.37.74.209
+2024-02-06 22:04:12 [2@glpi-uaibrasil]
+[setup] [Plugin 720] 3: Plugin Metabase foi instalado por glpi (2).
+2024-02-06 22:04:20 [2@glpi-uaibrasil]
+[setup] [Plugin 721] 3: Plugin Metabase foi ativado por glpi (2).
+2024-02-07 08:04:45 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.248.186.105
+2024-02-07 08:41:23 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 179.104.156.203
+2024-02-07 11:59:27 [@glpi-uaibrasil]
+[login] 3: Falhou login para  do IP 186.210.52.33
+2024-02-07 11:59:33 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 186.210.52.33
+2024-02-07 12:14:48 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 172.100.0.207
+2024-02-07 12:33:22 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 186.210.52.33
+2024-02-07 12:35:59 [@glpi-uaibrasil]
+[login] 3: thiago.borges fez login no IP 186.210.52.33
+2024-02-07 12:40:45 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 186.210.52.33
+2024-02-07 16:34:26 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 179.104.156.203
+2024-02-07 16:34:44 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 179.104.156.203
+2024-02-07 18:40:21 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 190.7.187.167
+2024-02-07 18:40:27 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 190.7.187.167
+2024-02-08 08:39:30 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.106.119.149
+2024-02-08 11:14:58 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.248.186.105
+2024-02-08 14:11:01 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 177.106.119.149
+2024-02-08 14:11:11 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.106.119.149
+2024-02-08 14:44:14 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 177.106.119.149
+2024-02-08 14:44:23 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.106.119.149
+2024-02-08 17:09:04 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.248.186.105
+2024-02-09 01:20:49 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 189.37.66.158
+2024-02-09 01:21:06 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 189.37.66.158
+2024-02-09 08:35:50 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 179.104.187.198
+2024-02-09 09:20:45 [@glpi-uaibrasil]
+[login] 3: Falhou login para  do IP 177.106.180.161
+2024-02-09 09:20:49 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 177.106.180.161
+2024-02-09 09:21:05 [@glpi-uaibrasil]
+[login] 3: oficinap ligou-se do IP 177.106.180.161
+2024-02-09 21:24:59 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 177.191.77.107
+2024-02-10 01:03:29 [@glpi-uaibrasil]
+[login] 3: Login falhou para glpi no IP 189.37.64.94
+2024-02-10 01:03:50 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 189.37.64.94
+2024-02-14 08:37:32 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 179.104.191.24
+2024-02-14 13:53:08 [@glpi-uaibrasil]
+[login] 3: fabio.barbosa fez login no IP 179.104.191.24
+2024-02-14 14:00:23 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 179.104.191.24
+2024-02-14 14:00:35 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 179.104.191.24
+2024-02-14 17:03:47 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 179.104.191.24
+2024-02-14 17:03:58 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 179.104.191.24
+2024-02-14 18:24:19 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.31.147.172
+2024-02-14 18:25:41 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 179.126.219.126
+2024-02-15 08:36:51 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 179.104.188.81
+2024-02-15 11:36:08 [@glpi-uaibrasil]
+[login] 3: fabio.barbosa fez login no IP 179.104.188.81
+2024-02-15 11:37:29 [@glpi-uaibrasil]
+[login] 3: Falhou login para  do IP 179.104.188.81
+2024-02-15 11:37:34 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.104.188.81
+2024-02-15 13:20:54 [@glpi-uaibrasil]
+[login] 3: fabio.barbosa fez login no IP 179.104.188.81
+2024-02-15 15:07:50 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 179.104.188.81
+2024-02-15 15:07:59 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 179.104.188.81
+2024-02-16 08:39:41 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.106.88.66
+2024-02-19 08:37:34 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 189.15.111.244
+2024-02-19 13:45:07 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 189.15.111.244
+2024-02-19 13:45:19 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 189.15.111.244
+2024-02-19 19:04:01 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 192.168.80.134
+2024-02-19 19:48:07 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 192.168.80.134
+2024-02-20 08:41:53 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 179.104.176.235
+2024-02-20 09:29:24 [@glpi-uaibrasil]
+[login] 3: fabio.barbosa fez login no IP 179.104.176.235
+2024-02-20 09:49:00 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.248.161.15
+2024-02-20 10:12:19 [@glpi-uaibrasil]
+[login] 3: glpi fez login no IP 179.126.22.113
+2024-02-20 11:06:35 [@glpi-uaibrasil]
+[login] 3: Falhou login para  do IP 179.126.22.113
+2024-02-20 11:06:39 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 179.126.22.113
+2024-02-20 11:51:41 [@glpi-uaibrasil]
+[login] 3: oficinap fez login no IP 191.248.161.15
+2024-02-20 13:58:27 [@glpi-uaibrasil]
+[login] 3: fabio.barbosa fez login no IP 179.104.176.235
+2024-02-20 14:38:25 [@glpi-uaibrasil]
+[login] 3: Falhou login para thiago.borges do IP 179.104.176.235
+2024-02-20 14:38:33 [@glpi-uaibrasil]
+[login] 3: thiago.borges ligou-se do IP 179.104.176.235
+2024-02-20 17:17:50 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 192.168.80.137
+2024-02-21 08:38:20 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.106.94.144
+2024-02-21 09:35:16 [@glpi-uaibrasil]
+[login] 3: thiago.borges ligou-se do IP 177.106.183.152
+2024-02-21 13:49:37 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 177.106.94.144
+2024-02-21 13:49:48 [@glpi-uaibrasil]
+[login] 3: fabio.barbosa fez login no IP 177.106.94.144
+2024-02-22 08:39:56 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.106.35.101
+2024-02-22 11:30:56 [@glpi-uaibrasil]
+[login] 3: fabio.barbosa fez login no IP 177.106.35.101
+2024-02-22 13:45:50 [@glpi-uaibrasil]
+[login] 3: Login falhou para  no IP 177.106.35.101
+2024-02-22 13:46:05 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.106.35.101
+2024-02-23 08:40:52 [@glpi-uaibrasil]
+[login] 3: rodrigo.gomes fez login no IP 177.106.92.147
+2024-02-23 14:31:55 [@glpi-uaibrasil]
+[login] 3: thiago.borges ligou-se do IP 189.37.67.59
+2024-02-26 11:20:56 [@glpi-uaibrasil]
+[login] 3: Falhou login para glpi do IP 186.210.50.110
+2024-02-26 11:21:04 [@glpi-uaibrasil]
+[login] 3: glpi ligou-se do IP 186.210.50.110
+2024-02-26 12:19:36 [@glpi-uaibrasil]
+[login] 3: lucilene.soares ligou-se do IP 186.210.50.110
+2024-02-29 18:24:32 [@pop-os]
+[login] 3: Login falhou para  no IP 127.0.0.1
+2024-02-29 18:25:14 [@pop-os]
+[login] 3: glpi fez login no IP 127.0.0.1
+2024-02-29 18:33:57 [2@pop-os]
+[setup] [Plugin 1112] 3: Plugin Campos adicionais foi instalado por glpi (2).
+2024-02-29 18:57:31 [2@pop-os]
+[setup] [Plugin 1130] 3: Plugin Split Timeline Action Buttons foi desativado por glpi (2).

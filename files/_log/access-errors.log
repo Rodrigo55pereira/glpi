@@ -1,0 +1,163 @@
+2024-01-18 23:55:59 [9@glpi-uaibrasil]
+User ID: 9 tried to access or perform an action on /front/entity.form.php?id=2 with insufficient rights. Additional information: Nenhuma informação adicional fornecida
+	Stack Trace:
+		/var/www/html/glpi/front/dropdown.common.form.php:49 displayRightError()
+		/var/www/html/glpi/front/entity.form.php:58 include()
+2024-01-19 02:35:46 [2@glpi-uaibrasil]
+CSRF check failed for User ID: 2 at /front/tickettemplatehiddenfield.form.php
+2024-01-19 13:04:30 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-21 11:21:45 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-21 11:21:46 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-24 17:05:39 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /front/login.php
+2024-01-27 17:51:25 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /index.php
+2024-01-27 18:02:07 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-27 18:07:55 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-27 18:10:26 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-27 19:01:58 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-28 10:56:09 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-28 13:00:54 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /index.php
+2024-01-28 13:03:22 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-28 13:16:32 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-28 13:16:36 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-28 13:16:46 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-28 14:17:06 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-28 15:25:22 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /?rest_route=/notificationx/v1/analytics
+2024-01-29 09:30:17 [10@glpi-uaibrasil]
+User ID: 10 tried to access or perform an action on /front/entity.form.php?id=4 with insufficient rights. Additional information: Nenhuma informação adicional fornecida
+	Stack Trace:
+		/var/www/html/glpi/front/dropdown.common.form.php:49 displayRightError()
+		/var/www/html/glpi/front/entity.form.php:58 include()
+2024-01-29 09:31:01 [8@glpi-uaibrasil]
+User ID: 8 tried to access or perform an action on /front/entity.form.php?id=4 with insufficient rights. Additional information: Nenhuma informação adicional fornecida
+	Stack Trace:
+		/var/www/html/glpi/front/dropdown.common.form.php:49 displayRightError()
+		/var/www/html/glpi/front/entity.form.php:58 include()
+2024-01-29 18:18:44 [2@glpi-uaibrasil]
+CSRF check failed for User ID: 2 at /front/notificationajaxsetting.form.php
+2024-01-30 22:07:45 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-01-31 16:29:47 [8@glpi-uaibrasil]
+User ID: 8 tried to access or perform an action on /front/entity.form.php?id=1 with insufficient rights. Additional information: Nenhuma informação adicional fornecida
+	Stack Trace:
+		/var/www/html/glpi/front/dropdown.common.form.php:49 displayRightError()
+		/var/www/html/glpi/front/entity.form.php:58 include()
+2024-01-31 16:38:39 [2@glpi-uaibrasil]
+CSRF check failed for User ID: 2 at /front/ticket.form.php
+2024-01-31 16:46:03 [12@glpi-uaibrasil]
+User ID: 12 tried to access or perform an action on /front/document.form.php with insufficient rights. Additional information: User failed a can* method check for right 4 (Create) on item Type: Document ID: -1
+	Stack Trace:
+		/var/www/html/glpi/src/CommonDBTM.php:3054 displayRightError()
+		/var/www/html/glpi/front/document.form.php:49 check()
+2024-02-01 04:37:33 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-03 03:56:42 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-03 22:16:10 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-03 23:53:37 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-03 23:54:26 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /index.php
+2024-02-04 00:10:11 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-04 00:10:15 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-04 00:44:18 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /index.php
+2024-02-04 00:48:24 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-04 01:58:05 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /?rest_route=/notificationx/v1/analytics
+2024-02-04 03:03:14 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-04 03:03:22 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-04 04:25:05 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /index.php?c=blocked&action=continue
+2024-02-04 04:52:47 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-04 04:54:16 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /index.php/management/set_timezone
+2024-02-04 05:00:49 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-04 05:37:35 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /?PHPRC=/dev/fd/0
+2024-02-05 15:28:11 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-06 16:48:20 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /front/login.php
+2024-02-07 03:47:44 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-07 08:45:38 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-07 15:54:05 [2@glpi-uaibrasil]
+CSRF check failed for User ID: 2 at /front/ticket.form.php?id=59
+2024-02-07 17:42:57 [17@glpi-uaibrasil]
+User ID: 17 tried to access or perform an action on /front/user.form.php?id=12 with insufficient rights. Additional information: Missing READ right. Cannot view the item.
+	Stack Trace:
+		/var/www/html/glpi/src/CommonDBTM.php:6451 displayRightError()
+		/var/www/html/glpi/src/CommonDBTM.php:6544 displayAccessDeniedPage()
+		/var/www/html/glpi/front/user.form.php:253 displayFullPageForItem()
+2024-02-08 08:32:08 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-08 08:32:10 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-09 09:08:53 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-10 08:42:37 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-11 17:25:42 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-14 13:42:57 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-16 02:44:22 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-16 03:19:34 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-16 03:19:36 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-16 08:21:00 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-16 08:21:01 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-18 00:32:58 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-20 04:59:38 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-20 20:02:09 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-20 20:02:12 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-21 17:19:48 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-21 17:19:48 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-22 00:54:58 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /
+2024-02-25 14:21:10 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /public/index.php/material/Material/_download_imgage?media_id=1&picUrl=./../config/database.php
+2024-02-25 16:17:01 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /public/index.php/material/Material/_download_imgage?media_id=1&picUrl=./../config/database.php
+2024-02-25 16:17:07 [@glpi-uaibrasil]
+CSRF check failed for User ID:  at /public/index.php/material/Material/_download_imgage?media_id=1&picUrl=./../config/database.php
+2024-02-29 19:47:50 [2@pop-os]
+CSRF check failed for User ID: 2 at /glpi/front/ticket.form.php?id=73
+2024-02-29 19:49:05 [2@pop-os]
+CSRF check failed for User ID: 2 at /glpi/front/ticket.form.php?id=73

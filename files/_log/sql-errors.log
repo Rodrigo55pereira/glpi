@@ -1,0 +1,1152 @@
+[2024-01-23 23:31:09] glpisqllog.ERROR: DBmysql::doQuery() in /var/www/html/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_pendingreasons_items` (`pendingreasons_id`, `followup_frequency`, `followups_before_resolution`, `previous_status`, `itemtype`, `items_id`, `last_bump_date`) VALUES (NULL, '0', '0', '2', 'Ticket', '7', '2024-01-23 23:31:09')
+  Error: Column 'pendingreasons_id' cannot be null
+  Backtrace :
+  src/DBmysql.php:1380                               DBmysql->doQuery()
+  src/CommonDBTM.php:729                             DBmysql->insert()
+  src/CommonDBTM.php:1342                            CommonDBTM->addToDB()
+  src/PendingReason_Item.php:100                     CommonDBTM->add()
+  src/PendingReason_Item.php:487                     PendingReason_Item::createForItem()
+  src/CommonITILTask.php:414                         PendingReason_Item::handleTimelineEdits()
+  src/CommonDBTM.php:1747                            CommonITILTask->post_updateItem()
+  front/commonitiltask.form.php:97                   CommonDBTM->update()
+  front/tickettask.form.php:39                       include()
+  {"user":"10@glpi-uaibrasil"} 
+[2024-01-23 23:31:09] glpisqllog.ERROR: DBmysql::doQuery() in /var/www/html/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_pendingreasons_items` (`pendingreasons_id`, `followup_frequency`, `followups_before_resolution`, `itemtype`, `items_id`, `last_bump_date`) VALUES (NULL, '0', '0', 'TicketTask', '2', '2024-01-23 23:31:09')
+  Error: Column 'pendingreasons_id' cannot be null
+  Backtrace :
+  src/DBmysql.php:1380                               DBmysql->doQuery()
+  src/CommonDBTM.php:729                             DBmysql->insert()
+  src/CommonDBTM.php:1342                            CommonDBTM->addToDB()
+  src/PendingReason_Item.php:100                     CommonDBTM->add()
+  src/PendingReason_Item.php:493                     PendingReason_Item::createForItem()
+  src/CommonITILTask.php:414                         PendingReason_Item::handleTimelineEdits()
+  src/CommonDBTM.php:1747                            CommonITILTask->post_updateItem()
+  front/commonitiltask.form.php:97                   CommonDBTM->update()
+  front/tickettask.form.php:39                       include()
+  {"user":"10@glpi-uaibrasil","mem_usage":"0.002\", 1.64Mio)"} 
+[2024-01-23 23:39:39] glpisqllog.ERROR: DBmysql::doQuery() in /var/www/html/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_pendingreasons_items` (`pendingreasons_id`, `followup_frequency`, `followups_before_resolution`, `previous_status`, `itemtype`, `items_id`, `last_bump_date`) VALUES (NULL, '0', '0', '2', 'Ticket', '5', '2024-01-23 23:39:39')
+  Error: Column 'pendingreasons_id' cannot be null
+  Backtrace :
+  src/DBmysql.php:1380                               DBmysql->doQuery()
+  src/CommonDBTM.php:729                             DBmysql->insert()
+  src/CommonDBTM.php:1342                            CommonDBTM->addToDB()
+  src/PendingReason_Item.php:100                     CommonDBTM->add()
+  src/PendingReason_Item.php:487                     PendingReason_Item::createForItem()
+  src/CommonITILTask.php:414                         PendingReason_Item::handleTimelineEdits()
+  src/CommonDBTM.php:1747                            CommonITILTask->post_updateItem()
+  front/commonitiltask.form.php:97                   CommonDBTM->update()
+  front/tickettask.form.php:39                       include()
+  {"user":"8@glpi-uaibrasil"} 
+[2024-01-23 23:39:39] glpisqllog.ERROR: DBmysql::doQuery() in /var/www/html/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_pendingreasons_items` (`pendingreasons_id`, `followup_frequency`, `followups_before_resolution`, `itemtype`, `items_id`, `last_bump_date`) VALUES (NULL, '0', '0', 'TicketTask', '3', '2024-01-23 23:39:39')
+  Error: Column 'pendingreasons_id' cannot be null
+  Backtrace :
+  src/DBmysql.php:1380                               DBmysql->doQuery()
+  src/CommonDBTM.php:729                             DBmysql->insert()
+  src/CommonDBTM.php:1342                            CommonDBTM->addToDB()
+  src/PendingReason_Item.php:100                     CommonDBTM->add()
+  src/PendingReason_Item.php:493                     PendingReason_Item::createForItem()
+  src/CommonITILTask.php:414                         PendingReason_Item::handleTimelineEdits()
+  src/CommonDBTM.php:1747                            CommonITILTask->post_updateItem()
+  front/commonitiltask.form.php:97                   CommonDBTM->update()
+  front/tickettask.form.php:39                       include()
+  {"user":"8@glpi-uaibrasil","mem_usage":"0.002\", 1.67Mio)"} 
+[2024-01-23 23:40:14] glpisqllog.ERROR: DBmysql::doQuery() in /var/www/html/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_pendingreasons_items` (`pendingreasons_id`, `followup_frequency`, `followups_before_resolution`, `previous_status`, `itemtype`, `items_id`, `last_bump_date`) VALUES (NULL, '0', '0', '4', 'Ticket', '5', '2024-01-23 23:40:14')
+  Error: Column 'pendingreasons_id' cannot be null
+  Backtrace :
+  src/DBmysql.php:1380                               DBmysql->doQuery()
+  src/CommonDBTM.php:729                             DBmysql->insert()
+  src/CommonDBTM.php:1342                            CommonDBTM->addToDB()
+  src/PendingReason_Item.php:100                     CommonDBTM->add()
+  src/PendingReason_Item.php:487                     PendingReason_Item::createForItem()
+  src/CommonITILTask.php:414                         PendingReason_Item::handleTimelineEdits()
+  src/CommonDBTM.php:1747                            CommonITILTask->post_updateItem()
+  front/commonitiltask.form.php:97                   CommonDBTM->update()
+  front/tickettask.form.php:39                       include()
+  {"user":"8@glpi-uaibrasil"} 
+[2024-01-23 23:40:14] glpisqllog.ERROR: DBmysql::doQuery() in /var/www/html/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_pendingreasons_items` (`pendingreasons_id`, `followup_frequency`, `followups_before_resolution`, `itemtype`, `items_id`, `last_bump_date`) VALUES (NULL, '0', '0', 'TicketTask', '3', '2024-01-23 23:40:14')
+  Error: Column 'pendingreasons_id' cannot be null
+  Backtrace :
+  src/DBmysql.php:1380                               DBmysql->doQuery()
+  src/CommonDBTM.php:729                             DBmysql->insert()
+  src/CommonDBTM.php:1342                            CommonDBTM->addToDB()
+  src/PendingReason_Item.php:100                     CommonDBTM->add()
+  src/PendingReason_Item.php:493                     PendingReason_Item::createForItem()
+  src/CommonITILTask.php:414                         PendingReason_Item::handleTimelineEdits()
+  src/CommonDBTM.php:1747                            CommonITILTask->post_updateItem()
+  front/commonitiltask.form.php:97                   CommonDBTM->update()
+  front/tickettask.form.php:39                       include()
+  {"user":"8@glpi-uaibrasil","mem_usage":"0.002\", 1.78Mio)"} 
+[2024-02-07 18:56:59] glpisqllog.ERROR: DBmysql::doQuery() in /var/www/html/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: INSERT INTO `glpi_tickets_users` (`type`, `use_notification`, `alternative_email`, `tickets_id`, `users_id`) VALUES ('2', '', '', '61', '2')
+  Error: Incorrect integer value: '' for column `glpi`.`glpi_tickets_users`.`use_notification` at row 1
+  Backtrace :
+  src/DBmysql.php:1380                               DBmysql->doQuery()
+  src/CommonDBTM.php:729                             DBmysql->insert()
+  src/CommonDBTM.php:1342                            CommonDBTM->addToDB()
+  src/CommonITILObject.php:8672                      CommonDBTM->add()
+  src/CommonITILObject.php:2867                      CommonITILObject->updateActors()
+  src/Ticket.php:2227                                CommonITILObject->post_addItem()
+  src/CommonDBTM.php:1343                            Ticket->post_addItem()
+  front/ticket.form.php:80                           CommonDBTM->add()
+  {"user":"2@glpi-uaibrasil"} 
+[2024-02-29 21:17:15] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id =73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:17:15] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id =73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.001\", 29.52Mio)"} 
+[2024-02-29 21:17:20] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:17:20] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.52Mio)"} 
+[2024-02-29 21:17:21] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:17:21] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.52Mio)"} 
+[2024-02-29 21:17:24] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:17:24] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.53Mio)"} 
+[2024-02-29 21:18:08] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:18:08] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7763                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.53Mio)"} 
+[2024-02-29 21:20:45] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:20:45] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7763                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.55Mio)"} 
+[2024-02-29 21:21:46] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:21:46] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7763                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.55Mio)"} 
+[2024-02-29 21:22:47] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:22:47] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7763                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.56Mio)"} 
+[2024-02-29 21:23:48] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:23:48] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.56Mio)"} 
+[2024-02-29 21:24:49] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:24:49] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.56Mio)"} 
+[2024-02-29 21:25:50] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:25:50] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.56Mio)"} 
+[2024-02-29 21:26:51] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:26:51] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.001\", 29.57Mio)"} 
+[2024-02-29 21:27:52] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:27:52] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.57Mio)"} 
+[2024-02-29 21:28:53] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:28:53] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.58Mio)"} 
+[2024-02-29 21:29:54] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:29:54] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.58Mio)"} 
+[2024-02-29 21:30:55] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:30:55] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.58Mio)"} 
+[2024-02-29 21:31:56] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:31:56] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.58Mio)"} 
+[2024-02-29 21:32:57] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:32:57] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.59Mio)"} 
+[2024-02-29 21:33:18] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:33:18] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7762                                
+  src/Search.php:1730                                Search::giveItem()
+  src/Search.php:449                                 Search::constructData()
+  src/Search.php:200                                 Search::getDatas()
+  src/Search.php:177                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.59Mio)"} 
+[2024-02-29 21:34:19] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:34:19] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.58Mio)"} 
+[2024-02-29 21:35:20] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:35:20] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.59Mio)"} 
+[2024-02-29 21:36:21] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:36:21] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.59Mio)"} 
+[2024-02-29 21:37:22] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:37:22] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.59Mio)"} 
+[2024-02-29 21:38:23] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:38:23] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.59Mio)"} 
+[2024-02-29 21:39:24] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:39:24] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.60Mio)"} 
+[2024-02-29 21:40:24] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:40:24] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.60Mio)"} 
+[2024-02-29 21:41:24] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:41:24] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.001\", 29.60Mio)"} 
+[2024-02-29 21:42:24] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:42:24] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.61Mio)"} 
+[2024-02-29 21:43:25] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:43:25] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.001\", 29.61Mio)"} 
+[2024-02-29 21:44:26] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:44:26] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.61Mio)"} 
+[2024-02-29 21:45:27] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:45:27] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.62Mio)"} 
+[2024-02-29 21:46:28] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7759                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:46:28] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1729                                Search::giveItem()
+  src/Search.php:448                                 Search::constructData()
+  src/Search.php:199                                 Search::getDatas()
+  src/Search.php:176                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.62Mio)"} 
+[2024-02-29 21:47:29] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1731                                Search::giveItem()
+  src/Search.php:450                                 Search::constructData()
+  src/Search.php:201                                 Search::getDatas()
+  src/Search.php:178                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:47:29] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7763                                
+  src/Search.php:1731                                Search::giveItem()
+  src/Search.php:450                                 Search::constructData()
+  src/Search.php:201                                 Search::getDatas()
+  src/Search.php:178                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.63Mio)"} 
+[2024-02-29 21:48:30] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1731                                Search::giveItem()
+  src/Search.php:450                                 Search::constructData()
+  src/Search.php:201                                 Search::getDatas()
+  src/Search.php:178                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:48:30] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7763                                
+  src/Search.php:1731                                Search::giveItem()
+  src/Search.php:450                                 Search::constructData()
+  src/Search.php:201                                 Search::getDatas()
+  src/Search.php:178                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os","mem_usage":"0.000\", 29.63Mio)"} 
+[2024-02-29 21:50:41] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1731                                Search::giveItem()
+  src/Search.php:450                                 Search::constructData()
+  src/Search.php:201                                 Search::getDatas()
+  src/Search.php:178                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:51:42] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7760                                
+  src/Search.php:1731                                Search::giveItem()
+  src/Search.php:450                                 Search::constructData()
+  src/Search.php:201                                 Search::getDatas()
+  src/Search.php:178                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:52:43] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1732                                Search::giveItem()
+  src/Search.php:451                                 Search::constructData()
+  src/Search.php:202                                 Search::getDatas()
+  src/Search.php:179                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:52:45] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1732                                Search::giveItem()
+  src/Search.php:451                                 Search::constructData()
+  src/Search.php:202                                 Search::getDatas()
+  src/Search.php:179                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:52:46] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1732                                Search::giveItem()
+  src/Search.php:451                                 Search::constructData()
+  src/Search.php:202                                 Search::getDatas()
+  src/Search.php:179                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:52:55] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1732                                Search::giveItem()
+  src/Search.php:451                                 Search::constructData()
+  src/Search.php:202                                 Search::getDatas()
+  src/Search.php:179                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:52:56] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1732                                Search::giveItem()
+  src/Search.php:451                                 Search::constructData()
+  src/Search.php:202                                 Search::getDatas()
+  src/Search.php:179                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 21:53:02] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: Select current_data_time_to_resolve from glpi_tickets where id = 73
+  Error: Unknown column 'current_data_time_to_resolve' in 'field list'
+  Backtrace :
+  src/DBmysql.php:352                                DBmysql->doQuery()
+  src/Search.php:7761                                
+  src/Search.php:1732                                Search::giveItem()
+  src/Search.php:451                                 Search::constructData()
+  src/Search.php:202                                 Search::getDatas()
+  src/Search.php:179                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 22:08:28] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_commondbtms` WHERE `fields` = '*' AND `conditions` IN ('73')
+  Error: Table 'glpi.glpi_commondbtms' doesn't exist
+  Backtrace :
+  src/DBmysqlIterator.php:112                        DBmysql->doQuery()
+  src/DBmysql.php:1109                               DBmysqlIterator->execute()
+  src/CommonDBTM.php:582                             DBmysql->request()
+  src/Search.php:7770                                CommonDBTM->find()
+  src/Search.php:1732                                Search::giveItem()
+  src/Search.php:451                                 Search::constructData()
+  src/Search.php:202                                 Search::getDatas()
+  src/Search.php:179                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 22:09:19] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_commondbtms` WHERE `fields` = '*' AND `conditions` IN ('73')
+  Error: Table 'glpi.glpi_commondbtms' doesn't exist
+  Backtrace :
+  src/DBmysqlIterator.php:112                        DBmysql->doQuery()
+  src/DBmysql.php:1109                               DBmysqlIterator->execute()
+  src/CommonDBTM.php:582                             DBmysql->request()
+  src/Search.php:7770                                CommonDBTM->find()
+  src/Search.php:1732                                Search::giveItem()
+  src/Search.php:451                                 Search::constructData()
+  src/Search.php:202                                 Search::getDatas()
+  src/Search.php:179                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 22:09:55] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_commondbtms` WHERE `fields` = '*'
+  Error: Table 'glpi.glpi_commondbtms' doesn't exist
+  Backtrace :
+  src/DBmysqlIterator.php:112                        DBmysql->doQuery()
+  src/DBmysql.php:1109                               DBmysqlIterator->execute()
+  src/CommonDBTM.php:582                             DBmysql->request()
+  src/Search.php:7767                                CommonDBTM->find()
+  src/Search.php:1732                                Search::giveItem()
+  src/Search.php:451                                 Search::constructData()
+  src/Search.php:202                                 Search::getDatas()
+  src/Search.php:179                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
+[2024-02-29 22:09:56] glpisqllog.ERROR: DBmysql::doQuery() in /opt/lampp/htdocs/glpi/src/DBmysql.php line 403
+  *** MySQL query error:
+  SQL: SELECT * FROM `glpi_commondbtms` WHERE `fields` = '*'
+  Error: Table 'glpi.glpi_commondbtms' doesn't exist
+  Backtrace :
+  src/DBmysqlIterator.php:112                        DBmysql->doQuery()
+  src/DBmysql.php:1109                               DBmysqlIterator->execute()
+  src/CommonDBTM.php:582                             DBmysql->request()
+  src/Search.php:7767                                CommonDBTM->find()
+  src/Search.php:1732                                Search::giveItem()
+  src/Search.php:451                                 Search::constructData()
+  src/Search.php:202                                 Search::getDatas()
+  src/Search.php:179                                 Search::showList()
+  front/ticket.php:58                                Search::show()
+  {"user":"2@pop-os"} 
